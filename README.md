@@ -3,7 +3,7 @@
 
 ## Languages and Tools:
 
-(https://img.shields.io/static/v1?&message=<MESSAGE>&color=<COLOR>)
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 
 
